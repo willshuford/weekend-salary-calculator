@@ -1,9 +1,10 @@
-# Project Name
-
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
+# WEEKLY SALARY CALCULATOR
 
 ## Description
 
-Your project description goes here. What problem did you solve? How did you solve it?
+_Duration: 1 Week Sprint_
 
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+For this project, I needed to create an application that records employee salaries and adds them up to report total monthly costs. 
+
+The application needed to
+
